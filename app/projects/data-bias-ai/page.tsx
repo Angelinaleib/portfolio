@@ -142,7 +142,7 @@ export default function DataBiasAIPage() {
 
       {/* Takeaways */}
       <section>
-        <h2 className="text-lg font-medium mb-4">Key Takeaways</h2>
+        <h2 className="text-lg font-medium mb-4 text-blue-300">Key Takeaways</h2>
         <ul className="list-disc ml-6">
           <li>Bias is embedded before model training.</li>
           <li>Data reflects structual and historical inequalities.</li>
