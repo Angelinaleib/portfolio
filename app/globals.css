@@ -24,3 +24,28 @@ body {
   color: var(--foreground);
   font-family: var(--font-roboto-mono);
 }
+
+@keyframes typing {
+  0% {
+    width: 0%;
+    visibility: hidden;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+  100% {
+    border-color: #ffffff;
+  }
+}
+
+.animate-typing {
+  display: inline-block;
+  width: 0;
+  animation: typing 2.2s steps(20) 1 forwards, blink 0.7s 2;
+}
