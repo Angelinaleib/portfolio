@@ -9,7 +9,7 @@ export default function Home() {
         I'm fascinated by the intersection of technology and human behavior.</p>
       <p>Feel free to explore my projects and get in touch!</p>
       <a
-        className="inline-block rounded-md bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-700"
+        className="inline-block rounded-md bg-blue-300 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-300"
         href="mailto:your@email.com"
       >
         Say hi
