@@ -9,7 +9,12 @@ export default function ProjectsPage() {
           <Link href="/projects/data-bias-ai">Data Bias in AI</Link>
         </li>
         <li>
-          <Link href="/projects/bias-tool">Bias Tool</Link>
+          <Link
+          href="https://github.com/angelinaleib/anchoring-tool"
+          target="_blank"
+        >
+          Bias-Tool
+        </Link>
         </li>
       </ul>
     </>
