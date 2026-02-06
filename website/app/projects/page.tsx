@@ -9,13 +9,13 @@ export default function ProjectsPage() {
           <Link href="/projects/data-bias-ai">Data Bias in AI</Link>
         </li>
         <li>
-          <Link
+         <a
   href="https://github.com/angelinaleib/anchoring-tool/blob/main/anchoring.py"
   target="_blank"
-  rel="noreferrer"
+  rel="noopener noreferrer"
 >
   Bias-Tool
-</Link>
+</a>
         </li>
       </ul>
     </>
