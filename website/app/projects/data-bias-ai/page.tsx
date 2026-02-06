@@ -89,7 +89,7 @@ export default function DataBiasAIPage() {
           Bias Exists Before Data
         </h2>
         <p>Bias does not originate in algorithms but exists before data collection begins. 
-           Historical discrimination, unequal institutional access, and social norms shape who appears in datasets and how (cf. Hanna et al.(2025); Sperber(2023)). As a result, data often encodes past injustices as statistical patterns, for example through over-policing or underemployment of certain groups.
+           Historical discrimination, unequal institutional access, and social norms shape who appears in datasets and how (cf. Hanna et al.(2025), Sperber(2023)). As a result, data often encodes past injustices as statistical patterns, for example through over-policing or underemployment of certain groups.
            This historical bias persists even when sensitive attributes are removed, because it remains embedded in correlated variables.
         </p>
       </section>
@@ -99,7 +99,7 @@ export default function DataBiasAIPage() {
           From Society to Datasets
         </h2>
         <p>The transition from social reality to datasets introduces additional bias mechanisms. 
-            Common data-level biases include unrepresentative sampling, systematic missing data, biased labels, and proxy variables that indirectly encode protected characteristics (Hanna et al.; Sperber).
+            Common data-level biases include unrepresentative sampling, systematic missing data, biased labels, and proxy variables that indirectly encode protected characteristics (cf. Hanna et al.(2025); Sperber(2023)).
             Cinca et al. (2025) show that even experienced ML practitioners often underestimate how strongly social inequalities shape datasets,
             frequently attributing bias to models while acknowledging that it already emerges at the data level.</p>
       </section>
@@ -159,7 +159,7 @@ export default function DataBiasAIPage() {
           <li>Caton, S., et al. (2024). Fairness in machine learning: A survey</li>
           <li>Hanna, A., et al. (2025). Ethical and bias considerations in artificial intelligence/machine learning.</li>
           <li>Sperber, S., et al. (2023). Gender data gap and its impact on management science: Reflections from a European perspective</li>
-         <li>Cinca, C., et al. (2025). Practitioners and bias in machine learning: A study.Cinca, C., et al. (2025). Practitioners and bias in machine learning: A study</li>
+         <li>Cinca, C., et al. (2025). Practitioners and bias in machine learning: A study. Cinca, C., et al. (2025). Practitioners and bias in machine learning: A study</li>
           <li>Sony, M., et al. (2025). Bias in AI-driven HRM systems: Investigating discrimination risks embedded in AI recruitment tools and HR analytics</li>
         </ul>
       </section>
