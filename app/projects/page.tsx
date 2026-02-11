@@ -10,11 +10,11 @@ export default function ProjectsPage() {
         </li>
         <li>
          <a
-  href="https://github.com/angelinaleib/anchoring-tool/blob/main/anchoring.py"
+  href="https://anchoring-tool-igec52c2pt2r8zx3ahra9b.streamlit.app"
   target="_blank"
   rel="noopener noreferrer"
 >
-  Bias-Tool
+  Anchoring-Quiz
 </a>
         </li>
       </ul>
